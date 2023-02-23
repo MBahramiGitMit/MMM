@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">Top Movie</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="favorite">Favorite</string>
+    <string name="search_field_placeholder">Movie name …</string>
+    <string name="story_line_title">Story line</string>
+    <string name="images">Images</string>
+</resources>

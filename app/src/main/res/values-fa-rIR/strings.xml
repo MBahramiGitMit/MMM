@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">فیلم برتر</string>
+    <string name="home">خانه</string>
+    <string name="search">جستوجو</string>
+    <string name="favorite">علاقه مندی</string>
+    <string name="search_field_placeholder">نام فیلم …</string>
+    <string name="story_line_title">خلاصه داستان</string>
+    <string name="images">عکس ها</string>
+</resources>
